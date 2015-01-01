@@ -1,4 +1,1 @@
-aurora-blog-posts
-=================
-
-Code examples for the Aurora Solutions blog.
+This repository contains the code example for the Grails & reCAPTCHA blog post for the Aurora Solutions blog.
